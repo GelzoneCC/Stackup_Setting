@@ -1,4 +1,3 @@
-
 ; Print a note in Allegro commadn line when this script is loaded.
 println "Loading Stackup Controller. Created by EricCC Huang (c) 2025"
 
@@ -56,6 +55,7 @@ procedure(removeFirstAndLast(allLayersList)
         reverse(removeLast)  ; Directly return.
     )
 )
+
 
 procedure(readDielectricConst()
     ; Read txt file to get the dielectric constant values as a list.
