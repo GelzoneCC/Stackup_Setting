@@ -7,3 +7,4 @@ The code will show that how to set the dielectric constant to the dielectric lay
 
 1. Only work in Cadence products which support SKILL.
 2. Use both API and SKILL code.
+3. _"cdsroot/share/local/pcb/skill"_ to auto-load your script.
